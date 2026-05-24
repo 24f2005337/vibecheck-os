@@ -1,5 +1,11 @@
 # VibeCheck OS 🧠 | AI-Driven Mental Analytics SaaS Dashboard
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 An academic, industry-grade Full-Stack Machine Learning web application designed to track and analyze daily subconscious cognitive states using Natural Language Processing (NLP). Moving away from rudimentary API reliance, this architecture implements an end-to-end local ML pipeline paired with a responsive, glassmorphic Bento Box UX.
 
 ## 🚀 Core Production Features
