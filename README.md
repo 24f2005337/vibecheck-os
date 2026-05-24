@@ -5,6 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80-LIVE%20DEMO-21262d?style=for-the-badge&logoColor=white)](https://github.com/24f2005337/vibecheck-os)
 
 An academic, industry-grade Full-Stack Machine Learning web application designed to track and analyze daily subconscious cognitive states using Natural Language Processing (NLP). Moving away from rudimentary API reliance, this architecture implements an end-to-end local ML pipeline paired with a responsive, glassmorphic Bento Box UX.
 
